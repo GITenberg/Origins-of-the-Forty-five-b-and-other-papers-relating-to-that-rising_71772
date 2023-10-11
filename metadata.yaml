@@ -1,11 +1,16 @@
 _repo: Origins-of-the-Forty-five-b-and-other-papers-relating-to-that-rising_71772
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71772-h/images/cover.jpg
 creator:
   author:
     agent_name: Blaikie, Walter Biggar
     gutenberg_agent_id: '56390'
     url: http://www.gutenberg.org/2009/agents/56390
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71772#Origins-of-the-Forty-five-b-and-other-papers-relating-to-that-rising
 gutenberg_issued: '2023-10-01'
 identifiers:
   gutenberg: '71772'
